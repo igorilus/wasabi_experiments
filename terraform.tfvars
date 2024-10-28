@@ -4,7 +4,7 @@ departments = ["engineering", "finance", "marketing", "operations", "sales"]
 # Users
 users = ["alice", "bob", "charlie", "backup"]
 
-# Permissions
+# Permissions matrix
 permissions = {
   ro = {
     alice   = ["engineering"],
